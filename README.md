@@ -77,3 +77,8 @@
    After a successful connection, you should see the GNOME desktop environment on your RHEL server.
 
 Now, with the EPEL repository enabled, you can install XRDP and related packages. Adjust the firewall settings and other configurations based on your specific requirements, and consider security best practices when configuring remote access.
+
+![image](https://github.com/ikhsannur1996/gui-rhel/assets/32507742/df5416c0-1fe1-482a-83b4-0de42b82d22c)
+
+![image](https://github.com/ikhsannur1996/gui-rhel/assets/32507742/6ef5e82e-df6a-49d8-96b7-243666929a92)
+
