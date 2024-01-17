@@ -1,4 +1,4 @@
-### Install GNOME Desktop on RHEL:
+### Install GNOME Desktop on RHEL 8.4:
 
 1. *Update Repository:**
    Update Repository:
